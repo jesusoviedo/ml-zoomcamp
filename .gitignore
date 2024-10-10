@@ -164,3 +164,4 @@ cython_debug/
 #data folder
 
 01-intro/data
+02-regression/dataset
